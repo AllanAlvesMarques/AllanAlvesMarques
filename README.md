@@ -24,6 +24,8 @@
 
 - 📚 Estou estudando **Bloc**, **GetX**, **Firebase** e **Clean architecture**
 
+- ⏱ Tenho experiencia com **GIT** e **Metodologias ágeis**
+
 - 📘 Estou aberto a aprender novas tecnologias
 
 </div>
